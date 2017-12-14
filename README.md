@@ -7,7 +7,8 @@
 * This is a simple ruby program which simulates a scorer broadcasting live cricket score.
 
 ## Demo:
- 
+
+https://repl.it/@NishanthGanga/cricket-scorer
 
 ## Features: 
 
